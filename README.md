@@ -3,7 +3,7 @@
 
 ![eCash Logo](https://ecashtab.org/static/media/logo_topright.fa22e205.png)
 
-<br>
+
 **CashTab Wallet** is your secure and user-friendly solution for managing **eCash**. With CashTab, you can easily store, send, and receive eCash, putting full control of your digital assets in your hands.
 
 ## Why Choose CashTab Wallet?
